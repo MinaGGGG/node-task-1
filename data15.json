@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "fname": "Mina",
+        "lname": "Gamil",
+        "age": 20,
+        "city": "Cairo"
+    },
+    {
+        "id": 2,
+        "fname": "Farid",
+        "lname": "Gamil",
+        "age": 26,
+        "city": "Cairo"
+    }
+]
